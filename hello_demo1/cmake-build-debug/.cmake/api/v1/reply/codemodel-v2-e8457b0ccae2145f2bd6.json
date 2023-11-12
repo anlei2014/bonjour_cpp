@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.26"
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "hello_demo1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-hello_demo1-Debug-c371caf8ddc5ec76ffb7.json",
+					"jsonFile" : "target-hello_demo1-Debug-74f5e5d7c58f6cb02c80.json",
 					"name" : "hello_demo1",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "F:/code/bonjour_cpp/hello_demo1/cmake-build-debug",
-		"source" : "F:/code/bonjour_cpp/hello_demo1"
+		"build" : "/Users/apple/Documents/code/Cpp/bonjour_cpp/hello_demo1/cmake-build-debug",
+		"source" : "/Users/apple/Documents/code/Cpp/bonjour_cpp/hello_demo1"
 	},
 	"version" : 
 	{
